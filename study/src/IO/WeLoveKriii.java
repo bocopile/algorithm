@@ -1,3 +1,5 @@
+package IO;
+
 public class WeLoveKriii {
 
     public static void main(String[] args) {
